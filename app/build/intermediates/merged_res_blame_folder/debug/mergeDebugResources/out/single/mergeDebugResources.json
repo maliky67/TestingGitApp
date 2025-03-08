@@ -1,130 +1,130 @@
 [
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_lightsv2.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/lightsv2.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_bannerv4.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\bannerv4.jpg"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_rectangle_shape.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/rectangle_shape.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_rectangle_shape.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\rectangle_shape.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_splashv1.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/splashv1.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_logov1.PNG.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\logov1.PNG"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_joytechv2.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/joytechv2.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_beautiful_christmas_bannerv1.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\beautiful_christmas_bannerv1.jpg"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/xml_backup_rules.xml.flat",
-        "source": "com.example.apppages.app-main-35:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_gold_circle.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\gold_circle.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_search_barv2.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/search_barv2.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_model.webp.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\model.webp"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_bannerv4.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/bannerv4.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_electronic_iconv1.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\electronic_iconv1.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/layout_activity_main.xml.flat",
-        "source": "com.example.apppages.app-main-35:/layout/activity_main.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_beautiful_christmas_bannerv1.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/beautiful_christmas_bannerv1.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\font_christmasnormalv1.ttf.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\font\\christmasnormalv1.ttf"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_top_background.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/top_background.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\font_christmasboldv1.ttf.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\font\\christmasboldv1.ttf"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_homescreenv1.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/homescreenv1.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_bell_iconv1.webp.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\bell_iconv1.webp"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_bell_iconv1.webp.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/bell_iconv1.webp"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_lightv1.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\lightv1.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_lightv1.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/lightv1.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/layout_activity_homescreen.xml.flat",
-        "source": "com.example.apppages.app-main-35:/layout/activity_homescreen.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_christmasbannerv3.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\christmasbannerv3.jpg"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_possible_blue.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/possible_blue.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_bannverv2.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\bannverv2.jpg"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.apppages.app-main-35:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_edittext_background.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/edittext_background.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_search_barv2.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\search_barv2.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_red_circle.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/red_circle.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/font_christmasnormalv1.ttf.flat",
-        "source": "com.example.apppages.app-main-35:/font/christmasnormalv1.ttf"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_hatv1.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/hatv1.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\layout_activity_homescreen.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\layout\\activity_homescreen.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_gold_circle.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/gold_circle.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_top_background.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\top_background.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_christmasbannerv3.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/christmasbannerv3.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_homescreenv1.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\homescreenv1.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/layout_splash_screen.xml.flat",
-        "source": "com.example.apppages.app-main-35:/layout/splash_screen.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_hatv1.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\hatv1.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_screenv3.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/screenv3.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_possible_blue.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\possible_blue.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/font_christmasboldv1.ttf.flat",
-        "source": "com.example.apppages.app-main-35:/font/christmasboldv1.ttf"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_iphonev1.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\iphonev1.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_splashv1.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\splashv1.jpg"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_model.webp.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/model.webp"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_lightsv2.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\lightsv2.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_logov1.PNG.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/logov1.PNG"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_red_circle.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\red_circle.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\layout\\splash_screen.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_bannverv2.jpg.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/bannverv2.jpg"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_joytechv2.png.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\joytechv2.png"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_iphonev1.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/iphonev1.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\edittext_background.xml"
     },
     {
-        "merged": "com.example.apppages.app-debug-33:/drawable_electronic_iconv1.png.flat",
-        "source": "com.example.apppages.app-main-35:/drawable/electronic_iconv1.png"
+        "merged": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-debug-33:\\drawable_screenv3.jpg.flat",
+        "source": "C:\\Users\\19547\\.gradle\\daemon\\8.10.2\\com.example.apppages.app-main-35:\\drawable\\screenv3.jpg"
     }
 ]
