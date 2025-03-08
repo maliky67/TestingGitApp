@@ -3389,7 +3389,6 @@ int id imageView29 0x7f0900fb
 int id imageView31 0x7f0900fc
 int id imageView32 0x7f0900fd
 int id imageView33 0x7f0900fe
-int id imageView4 0x7f0900ff
 int id imageView6 0x7f090100
 int id imageView7 0x7f090101
 int id imageView8 0x7f090102
@@ -3885,7 +3884,6 @@ int layout notification_template_part_time 0x7f0c0068
 int layout select_dialog_item_material 0x7f0c0069
 int layout select_dialog_multichoice_material 0x7f0c006a
 int layout select_dialog_singlechoice_material 0x7f0c006b
-int layout splash_screen 0x7f0c006c
 int layout support_simple_spinner_dropdown_item 0x7f0c006d
 int plurals mtrl_badge_content_description 0x7f0e0000
 int string _1 0x7f0f0000

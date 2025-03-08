@@ -3390,7 +3390,6 @@ id imageView29
 id imageView31
 id imageView32
 id imageView33
-id imageView4
 id imageView6
 id imageView7
 id imageView8
@@ -3886,7 +3885,6 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
-layout splash_screen
 layout support_simple_spinner_dropdown_item
 plurals mtrl_badge_content_description
 string _1

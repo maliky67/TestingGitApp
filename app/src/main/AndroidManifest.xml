@@ -15,7 +15,7 @@
 
         <!-- Splash Screen (App Entry Point) -->
         <activity
-            android:name=".SplashActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,14 +23,10 @@
             </intent-filter>
         </activity>
 
-        <!-- Home Screen Activity -->
-        <activity
-            android:name=".HomeScreen"
-            android:exported="true" />
 
         <!-- Main Activity -->
         <activity
-            android:name=".MainActivity"
+            android:name=".HomeScreen"
             android:exported="true" />
 
     </application>
